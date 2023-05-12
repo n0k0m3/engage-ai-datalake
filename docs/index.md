@@ -1,6 +1,7 @@
 ---
 title: Home Page
 layout: home
+nav_order: 1
 ---
 
 # Engage AI Data Platform
