@@ -1,0 +1,8 @@
+polars[all]
+duckdb
+duckdb-engine
+requests
+dbt-core
+dbt-duckdb
+boto3
+-e .
